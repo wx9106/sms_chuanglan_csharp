@@ -1,0 +1,33 @@
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\bin\Debug\sms.exe.config
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\bin\Debug\sms.exe
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\bin\Debug\sms.pdb
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\obj\Debug\sms.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\obj\Debug\sms.login.resources
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\obj\Debug\sms.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\obj\Debug\sms.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\obj\Debug\sms.exe
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\obj\Debug\sms.pdb
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\obj\Debug\sms.Send.resources
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\bin\Debug\sms.exe.manifest
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\bin\Debug\sms.application
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\obj\Debug\sms.TrustInfo.xml
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\obj\Debug\sms.exe.manifest
+d:\用户目录\我的文档\visual studio 2012\Projects\sms\sms\obj\Debug\sms.application
+G:\svn\myaliyunsvn\Csharp\sms\sms\bin\Debug\sms.exe.config
+G:\svn\myaliyunsvn\Csharp\sms\sms\obj\Debug\sms.exe
+G:\svn\myaliyunsvn\Csharp\sms\sms\obj\Debug\sms.pdb
+E:\git\sms_chuanglan_csharp\sms\sms\bin\Debug\sms.exe.config
+E:\git\sms_chuanglan_csharp\sms\sms\obj\Debug\sms.exe
+E:\git\sms_chuanglan_csharp\sms\sms\obj\Debug\sms.pdb
+E:\git\sms_chuanglan_csharp\sms\sms\bin\Debug\sms.exe.manifest
+E:\git\sms_chuanglan_csharp\sms\sms\bin\Debug\sms.application
+E:\git\sms_chuanglan_csharp\sms\sms\bin\Debug\sms.exe
+E:\git\sms_chuanglan_csharp\sms\sms\bin\Debug\sms.pdb
+E:\git\sms_chuanglan_csharp\sms\sms\obj\Debug\sms.csprojResolveAssemblyReference.cache
+E:\git\sms_chuanglan_csharp\sms\sms\obj\Debug\sms.Login.resources
+E:\git\sms_chuanglan_csharp\sms\sms\obj\Debug\sms.Properties.Resources.resources
+E:\git\sms_chuanglan_csharp\sms\sms\obj\Debug\sms.Send.resources
+E:\git\sms_chuanglan_csharp\sms\sms\obj\Debug\sms.csproj.GenerateResource.Cache
+E:\git\sms_chuanglan_csharp\sms\sms\obj\Debug\sms.TrustInfo.xml
+E:\git\sms_chuanglan_csharp\sms\sms\obj\Debug\sms.exe.manifest
+E:\git\sms_chuanglan_csharp\sms\sms\obj\Debug\sms.application
